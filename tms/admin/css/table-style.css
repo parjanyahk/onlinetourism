@@ -83,7 +83,7 @@ table tr td {
 }
 
 table tr:nth-of-type(2n+2) td {
-  background: #ffffff;
+  background: #EEEEEE;
 }
 
 table.bt tfoot th,
@@ -189,7 +189,7 @@ table.two-axis tr td:first-of-type {
   table.two-axis tr:nth-of-type(2n+2) td:first-of-type,
   table.two-axis tr td:first-of-type:before {
 		background:#e74c3c;
-		color: #ffffff;
+		color: #EEEEEE;
   }
 
   table.two-axis tr td:first-of-type {

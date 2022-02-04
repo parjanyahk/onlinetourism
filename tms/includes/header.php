@@ -35,16 +35,11 @@
 <!--- /top-header ---->
 <!--- header ---->
 <div class="header">
-	<div class="container">
+	<div class="container balls">
 		<div class="logo wow fadeInDown animated" data-wow-delay=".5s">
 			<a href="index.php">Travel <span>Agency Management System</span></a>	
 		</div>
-	
-		<div class="lock fadeInDown animated" data-wow-delay=".5s"> 
-			<li><i class="fa fa-lock"></i></li>
-            <li><div class="securetxt">SAFE &amp; SECURE </div></li>
-			<div class="clearfix"></div>
-		</div>
+
 		<div class="clearfix"></div>
 	</div>
 </div>
