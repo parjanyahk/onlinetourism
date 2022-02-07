@@ -341,7 +341,7 @@ li#menu-academico{
     padding: 0.3em 1em;
 }
 .logo-w3-agile {
-    background: #a2d200;
+    background: #219F94;
     float: left;
     width: 65.25%;
     text-align: center;
@@ -908,7 +908,7 @@ ul.dropdown-menu.drp-mnu li {
     text-align: center;
 }
 .four-w3ls {
-    background: #a2d200;
+    background: #219F94;
     padding: 2em 0;
     text-align: center;
 }
@@ -1146,7 +1146,7 @@ hr {
     border-left-color: #22beef;
 }
 .streamline .sl-success {
-    border-left-color: #a2d200;
+    border-left-color: #219F94;
 }
 .streamline .sl-warning {
     border-left-color: #8e44ad;
@@ -1168,7 +1168,7 @@ hr {
     background-color: #22beef;
 }
 .streamline .sl-success:before, .streamline .sl-success:last-child:after {
-    background-color: #a2d200;
+    background-color: #219F94;
 }
 .streamline .sl-warning:before, .streamline .sl-warning:last-child:after {
     background-color: #8e44ad;
@@ -4472,7 +4472,7 @@ label.control-label {
 }
 /*---errorpage-----*/
 .main {
-    background: #3b8fc5;
+    background: #395B64;
     min-height: 794px;
 }
 .main p {
@@ -4715,7 +4715,7 @@ ul.bt-list {
 }
 /*---signin-----*/
 .main-wthree{
-		background:#3b8fc5;
+		background:#395B64;
 		min-height:794px;
 }
 span.prfil-img img {
@@ -5288,7 +5288,7 @@ canvas#bar, canvas#line, canvas#pie {
     height: 270px !important;
 }
 .main {
-    background: #3b8fc5;
+    background: #395B64;
     min-height: 675px;
 }
 .questions h5, .questions h2 {

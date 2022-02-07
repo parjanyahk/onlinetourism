@@ -145,7 +145,7 @@ i.fa.fa-lock {
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
-    min-height: 430px;
+    min-height: 500px;
 }
 .banner h1 {
     font-size: 50px;
@@ -784,7 +784,7 @@ i.fa.fa-gift{
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
-    min-height:200px;
+    min-height: 500px;
 }
 .banner-2 h1 {
     font-size: 50px;

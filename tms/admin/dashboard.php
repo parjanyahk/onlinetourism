@@ -234,7 +234,7 @@ $cnt5=$query5->rowCount();
 				{period: '2016 Q1', iphone: 10697, ipad: 4470, itouch: 2038},
 				{period: '2016 Q2', iphone: 8442, ipad: 5723, itouch: 1801}
 			],
-			lineColors:['#ff4a43','#a2d200','#22beef'],
+			lineColors:['#ff4a43','#219F94','#22beef'],
 			xkey: 'period',
             redraw: true,
             ykeys: ['iphone', 'ipad', 'itouch'],
